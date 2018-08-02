@@ -7,5 +7,5 @@ Rules:
       4 . whenever a player rolls the dice the number on the dice is added to the player's current score and whenever the 
           number on the dice is '1' the active player looses his current score and current score resets to '0'.
       5 . If a player presses the hold button then his current score is added to his total score and the current score resets 
-          to '0' and the active state shifts to player 1 giving him a chance to roll the dice
+          to '0' and the active state shifts to other player giving him a chance to roll the dice
       6 . First player to get a total score of 100 WINS!
